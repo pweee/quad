@@ -10,7 +10,6 @@
 	$ans1 = (-$B+(sqrt(pow($B,2)-(4*$A*$C))))/(2*$A);
 	$ans2 = (-$B-(sqrt(pow($B,2)-(4*$A*$C))))/(2*$A);
 	echo "x1= " . $ans1 . /n;
-	echo .
 	echo "x2= " . $ans2;
 		?>
 </body>
